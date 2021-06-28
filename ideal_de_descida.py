@@ -27,7 +27,7 @@ while True:
    aux=input('')
 
    while aux!='sim' and aux!='não':
-      print('\nResposta inváliva\n')
+      print('\nResposta inválida\n')
       aux=input('\nDeseja fazer novo cálculo? sim/não\n')
 
    if aux=='não':
